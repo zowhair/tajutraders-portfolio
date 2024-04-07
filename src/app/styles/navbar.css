@@ -1,0 +1,6 @@
+.nav-wrapper {
+    display: flex;
+}
+.nav-wrapper  div{
+    margin-right: 10px;
+}
